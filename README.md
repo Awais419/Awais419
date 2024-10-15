@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m Muhammad Awais</h1>
 <ul>
-<li>- 👀 I’m a full stack Engineer
-<li>- 🌱 I’m currently learning new Things.
-<li>- 💞️ I’m looking to collaborate for great ideas
+<li>- 👀 Full Stack Engineer.
+<li>- 🌱 I’m currently learning New Things.
+<li>- 💞️ I’m looking to collaborate for great ideas.
 <li>- 📫 How to reach me at insta @ here.is_awais
 <li>- 😄 Pronouns: Aa WA AISE 😂
 <li>- ⚡ Fun fact: life is unexpected
