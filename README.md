@@ -1,12 +1,17 @@
-<h1>👋 Hi, I’m Muhammad Awais</h1>
+<h1>👋 Hi, I’m Aweis Shafeeq</h1>
+
 <ul>
-<li>- 👀 Full Stack Engineer.
-<li>- 🌱 I’m currently learning New Things.
-<li>- 💞️ I’m looking to collaborate for great ideas.
-<li>- 📫 How to reach me at insta @ here.is_awais
-<li>- 😄 Pronouns: Aa WA AISE 😂
-<li>- ⚡ Fun fact: life is unexpected
+  <li> 
+    A full Stack Software Engineer ✔
+  </li>
+   <li> 
+  Passinate in Frontend Technologies 🐱‍🏍
+  </li>
+   <li> 
+   Exploring Blockchain Technologies specially RUST .R ✨
+  </li>
 </ul>
+
 <!---
 Awais419/Awais419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
